@@ -1,9 +1,7 @@
 /* 
  * File: ProducerConsumer.java
  * Author: Piero Dalle Pezze
- * Mail: piero.dallepezze@gmail.com
- * Country: Italy
- * Licence: Open Source
+ * Licence: MIT
  * Date: 14/05/2006
  * Version: 1.0
  */
